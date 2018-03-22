@@ -71,3 +71,10 @@ Include any essential instructions for:
 
 
 ## License 
+
+[doc-img]: https://readthedocs.org/projects/jaeger/badge/?version=latest
+ [doc]: http://jaeger.readthedocs.org/en/latest/
+ [project]: https://readthedocs.org/projects/jaeger/
+ [ci-img]: https://travis-ci.org/jaegertracing/documentation.svg?branch=master
+ [ci]: https://travis-ci.org/jaegertracing/documentation
+ [jaeger]: http://jaegertracing.io
